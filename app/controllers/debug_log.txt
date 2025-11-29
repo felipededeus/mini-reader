@@ -1,0 +1,412 @@
+Array
+(
+    [usuario_id] => 2
+    [leitura_id] => 5
+    [progresso_versiculos] => Array
+        (
+            [0] => Atos-3-4
+            [1] => Atos-3-5
+            [2] => Atos-3-1
+            [3] => Atos-3-2
+            [4] => Atos-3-3
+            [5] => Array
+                (
+                    [versiculo] => Atos 3:1
+                    [lido] => 1
+                )
+
+            [6] => Array
+                (
+                    [versiculo] => Atos 3:2
+                    [lido] => 1
+                )
+
+            [7] => Array
+                (
+                    [versiculo] => Atos 3:3
+                    [lido] => 1
+                )
+
+            [8] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [9] => Array
+                (
+                    [versiculo] => Atos 3:4
+                    [lido] => 1
+                )
+
+            [10] => Array
+                (
+                    [versiculo] => Atos 3:5
+                    [lido] => 1
+                )
+
+            [11] => Array
+                (
+                    [versiculo] => Atos 3:6
+                    [lido] => 1
+                )
+
+        )
+
+)
+[{"versiculo":"Atos 3:1","lido":true},{"versiculo":"Atos 3:2","lido":true},{"versiculo":"Atos 3:3","lido":true},{"versiculo":"Atos 3:4","lido":true},{"versiculo":"Atos 3:5","lido":true},{"versiculo":"Atos 3:6","lido":true},{"versiculo":"Atos-3-1","lido":false},{"versiculo":"Atos-3-2","lido":false},{"versiculo":"Atos-3-3","lido":false},{"versiculo":"Atos-3-4","lido":false},{"versiculo":"Atos-3-5","lido":false}]Array
+(
+    [usuario_id] => 2
+    [leitura_id] => 5
+    [progresso_versiculos] => Array
+        (
+            [0] => Atos-3-4
+            [1] => Atos-3-5
+            [2] => Atos-3-1
+            [3] => Atos-3-2
+            [4] => Atos-3-3
+            [5] => Array
+                (
+                    [versiculo] => Atos 3:1
+                    [lido] => 1
+                )
+
+            [6] => Array
+                (
+                    [versiculo] => Atos 3:2
+                    [lido] => 1
+                )
+
+            [7] => Array
+                (
+                    [versiculo] => Atos 3:3
+                    [lido] => 1
+                )
+
+            [8] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [9] => Array
+                (
+                    [versiculo] => Atos 3:4
+                    [lido] => 1
+                )
+
+            [10] => Array
+                (
+                    [versiculo] => Atos 3:5
+                    [lido] => 1
+                )
+
+            [11] => Array
+                (
+                    [versiculo] => Atos 3:6
+                    [lido] => 1
+                )
+
+        )
+
+)
+[{"versiculo":"Atos 3:1","lido":true},{"versiculo":"Atos 3:2","lido":true},{"versiculo":"Atos 3:3","lido":true},{"versiculo":"Atos 3:4","lido":true},{"versiculo":"Atos 3:5","lido":true},{"versiculo":"Atos 3:6","lido":true},{"versiculo":"Atos-3-1","lido":false},{"versiculo":"Atos-3-2","lido":false},{"versiculo":"Atos-3-3","lido":false},{"versiculo":"Atos-3-4","lido":false},{"versiculo":"Atos-3-5","lido":false}]Array
+(
+    [usuario_id] => 2
+    [leitura_id] => 5
+    [progresso_versiculos] => Array
+        (
+            [0] => Atos-3-4
+            [1] => Atos-3-5
+            [2] => Atos-3-1
+            [3] => Atos-3-2
+            [4] => Atos-3-3
+            [5] => Array
+                (
+                    [versiculo] => Atos 3:1
+                    [lido] => 1
+                )
+
+            [6] => Array
+                (
+                    [versiculo] => Atos 3:2
+                    [lido] => 1
+                )
+
+            [7] => Array
+                (
+                    [versiculo] => Atos 3:3
+                    [lido] => 1
+                )
+
+            [8] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [9] => Array
+                (
+                    [versiculo] => Atos 3:4
+                    [lido] => 1
+                )
+
+            [10] => Array
+                (
+                    [versiculo] => Atos 3:5
+                    [lido] => 1
+                )
+
+            [11] => Array
+                (
+                    [versiculo] => Atos 3:6
+                    [lido] => 1
+                )
+
+        )
+
+)
+[{"versiculo":"Atos 3:1","lido":true},{"versiculo":"Atos 3:2","lido":true},{"versiculo":"Atos 3:3","lido":true},{"versiculo":"Atos 3:4","lido":true},{"versiculo":"Atos 3:5","lido":true},{"versiculo":"Atos 3:6","lido":true},{"versiculo":"Atos-3-1","lido":false},{"versiculo":"Atos-3-2","lido":false},{"versiculo":"Atos-3-3","lido":false},{"versiculo":"Atos-3-4","lido":false},{"versiculo":"Atos-3-5","lido":false}]Array
+(
+    [usuario_id] => 2
+    [leitura_id] => 5
+    [progresso_versiculos] => Array
+        (
+            [0] => Array
+                (
+                    [versiculo] => Atos-3-4
+                    [lido] => 
+                )
+
+            [1] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [2] => Array
+                (
+                    [versiculo] => Atos-3-1
+                    [lido] => 
+                )
+
+            [3] => Array
+                (
+                    [versiculo] => Atos-3-2
+                    [lido] => 
+                )
+
+            [4] => Array
+                (
+                    [versiculo] => Atos-3-3
+                    [lido] => 
+                )
+
+            [5] => Array
+                (
+                    [versiculo] => Atos 3:1
+                    [lido] => 1
+                )
+
+            [6] => Array
+                (
+                    [versiculo] => Atos 3:2
+                    [lido] => 1
+                )
+
+            [7] => Array
+                (
+                    [versiculo] => Atos 3:3
+                    [lido] => 1
+                )
+
+            [8] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [9] => Array
+                (
+                    [versiculo] => Atos 3:4
+                    [lido] => 1
+                )
+
+            [10] => Array
+                (
+                    [versiculo] => Atos 3:5
+                    [lido] => 1
+                )
+
+            [11] => Array
+                (
+                    [versiculo] => Atos 3:6
+                    [lido] => 1
+                )
+
+        )
+
+)
+[{"versiculo":"Atos 3:1","lido":true},{"versiculo":"Atos 3:2","lido":true},{"versiculo":"Atos 3:3","lido":true},{"versiculo":"Atos 3:4","lido":true},{"versiculo":"Atos 3:5","lido":true},{"versiculo":"Atos 3:6","lido":true},{"versiculo":"Atos-3-1","lido":false},{"versiculo":"Atos-3-2","lido":false},{"versiculo":"Atos-3-3","lido":false},{"versiculo":"Atos-3-4","lido":false},{"versiculo":"Atos-3-5","lido":false}]Array
+(
+    [usuario_id] => 2
+    [leitura_id] => 5
+    [progresso_versiculos] => Array
+        (
+            [0] => Array
+                (
+                    [versiculo] => Atos-3-4
+                    [lido] => 
+                )
+
+            [1] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [2] => Array
+                (
+                    [versiculo] => Atos-3-1
+                    [lido] => 
+                )
+
+            [3] => Array
+                (
+                    [versiculo] => Atos-3-2
+                    [lido] => 
+                )
+
+            [4] => Array
+                (
+                    [versiculo] => Atos-3-3
+                    [lido] => 
+                )
+
+            [5] => Array
+                (
+                    [versiculo] => Atos 3:1
+                    [lido] => 1
+                )
+
+            [6] => Array
+                (
+                    [versiculo] => Atos 3:2
+                    [lido] => 1
+                )
+
+            [7] => Array
+                (
+                    [versiculo] => Atos 3:3
+                    [lido] => 1
+                )
+
+            [8] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [9] => Array
+                (
+                    [versiculo] => Atos 3:4
+                    [lido] => 1
+                )
+
+            [10] => Array
+                (
+                    [versiculo] => Atos 3:5
+                    [lido] => 1
+                )
+
+            [11] => Array
+                (
+                    [versiculo] => Atos 3:6
+                    [lido] => 1
+                )
+
+        )
+
+)
+[{"versiculo":"Atos 3:1","lido":true},{"versiculo":"Atos 3:2","lido":true},{"versiculo":"Atos 3:3","lido":true},{"versiculo":"Atos 3:4","lido":true},{"versiculo":"Atos 3:5","lido":true},{"versiculo":"Atos 3:6","lido":true},{"versiculo":"Atos-3-1","lido":false},{"versiculo":"Atos-3-2","lido":false},{"versiculo":"Atos-3-3","lido":false},{"versiculo":"Atos-3-4","lido":false},{"versiculo":"Atos-3-5","lido":false}]Array
+(
+    [usuario_id] => 2
+    [leitura_id] => 5
+    [progresso_versiculos] => Array
+        (
+            [0] => Array
+                (
+                    [versiculo] => Atos-3-4
+                    [lido] => 
+                )
+
+            [1] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [2] => Array
+                (
+                    [versiculo] => Atos-3-1
+                    [lido] => 
+                )
+
+            [3] => Array
+                (
+                    [versiculo] => Atos-3-2
+                    [lido] => 
+                )
+
+            [4] => Array
+                (
+                    [versiculo] => Atos-3-3
+                    [lido] => 
+                )
+
+            [5] => Array
+                (
+                    [versiculo] => Atos 3:1
+                    [lido] => 1
+                )
+
+            [6] => Array
+                (
+                    [versiculo] => Atos 3:2
+                    [lido] => 1
+                )
+
+            [7] => Array
+                (
+                    [versiculo] => Atos 3:3
+                    [lido] => 1
+                )
+
+            [8] => Array
+                (
+                    [versiculo] => Atos-3-5
+                    [lido] => 
+                )
+
+            [9] => Array
+                (
+                    [versiculo] => Atos 3:4
+                    [lido] => 1
+                )
+
+            [10] => Array
+                (
+                    [versiculo] => Atos 3:5
+                    [lido] => 1
+                )
+
+            [11] => Array
+                (
+                    [versiculo] => Atos 3:6
+                    [lido] => 1
+                )
+
+        )
+
+)
+[{"versiculo":"Atos 3:1","lido":true},{"versiculo":"Atos 3:2","lido":true},{"versiculo":"Atos 3:3","lido":true},{"versiculo":"Atos 3:4","lido":true},{"versiculo":"Atos 3:5","lido":true},{"versiculo":"Atos 3:6","lido":true},{"versiculo":"Atos-3-1","lido":false},{"versiculo":"Atos-3-2","lido":false},{"versiculo":"Atos-3-3","lido":false},{"versiculo":"Atos-3-4","lido":false},{"versiculo":"Atos-3-5","lido":false}]
