@@ -1,6 +1,0 @@
-<FilesMatch "\.js$">
-    Header set Content-Type "application/javascript"
-</FilesMatch>
-<FilesMatch "\.css$">
-    Header set Content-Type "text/css"
-</FilesMatch>
