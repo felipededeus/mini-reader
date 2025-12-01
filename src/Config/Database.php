@@ -3,7 +3,7 @@ class Database {
     private $host = 'localhost';
     private $db_name = 'mini_reader';
     private $username = 'minireaderdbu'; 
-    private $password = 'Minidbc5h7a1!';
+    private $password = 'passwrd';
     public $conn;
 
     public function getConnection() {
